@@ -1,5 +1,6 @@
-# 💫 About Me:
-A passionate and junior software engineer with a good foundation 
+#Hey There! 👋 I'm Umesh Samartapu
+
+A passionate and junior software engineer with a good foundation and currently pursuing computer science and engineering in Avanthi Institute of Engineering and Technology
 
 
 ## 🌐 Socials:
