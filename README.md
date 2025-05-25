@@ -13,6 +13,11 @@ A passionate and junior software engineer with a good foundation and currently p
 ![](https://nirzak-streak-stats.vercel.app/?user=Achyuth8508&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Achyuth8508&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -20,8 +25,6 @@ A passionate and junior software engineer with a good foundation and currently p
 </picture>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
